@@ -6,7 +6,7 @@
     "url": "https://github.com/romanshutsman/client.git"
   },
   "scripts": {
-    "start": "node app/server.js",
+    "start": "",
     "lite": "lite-server",
     "tsc": "tsc",
     "tsc:w": "tsc -w"
